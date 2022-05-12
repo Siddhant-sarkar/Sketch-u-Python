@@ -1,7 +1,8 @@
 # Sketch-u-Python
 
 Python program using openCV which creates a pencil sketch of any given image
-
+>Siddhant Sarkar<br>
+>Samarth Babbar
 ## Pre-requisites
 
 This project is built using open-CV library which can be installed using the command.
